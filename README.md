@@ -45,6 +45,7 @@ cd industrial-it-service-desk
 
 # Gerekli kütüphaneleri yükleyin
 npm install
+
 Adım 2: Çevresel Değişkenleri (Environment Variables) Ayarlayın
 Projenin veritabanı ile konuşabilmesi için Supabase bağlantı anahtarlarına ihtiyacı vardır.
 
@@ -57,8 +58,10 @@ Supabase panelinizden Project Settings > API sekmesine gidin.
 Dosyanın içini kendi bilgilerinizle doldurun:
 
 Kod snippet'i
+
 NEXT_PUBLIC_SUPABASE_URL=[https://senin-proje-id.supabase.co](https://senin-proje-id.supabase.co)
 NEXT_PUBLIC_SUPABASE_ANON_KEY=senin_upuzun_anon_key_degerin
+
 Adım 3: Veritabanı ve Tabloları Kurun (SQL)
 Tabloları, ilişkileri ve güvenlik kurallarını (RLS) tek tıkla kuracağız:
 
@@ -89,6 +92,7 @@ Her şey hazır! Şimdi yerel sunucumuzu başlatabiliriz:
 
 Bash
 npm run dev
+
 Tarayıcınızı açın ve http://localhost:3000 adresine gidin. Industrial IT Service Desk kullanıma hazır!
 
 ### 1. Projeyi Klonlayın
