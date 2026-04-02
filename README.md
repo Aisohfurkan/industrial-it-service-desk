@@ -60,6 +60,7 @@ Dosyanın içini kendi bilgilerinizle doldurun:
 Kod snippet'i
 
 NEXT_PUBLIC_SUPABASE_URL=[https://senin-proje-id.supabase.co](https://senin-proje-id.supabase.co)
+
 NEXT_PUBLIC_SUPABASE_ANON_KEY=senin_upuzun_anon_key_degerin
 
 Adım 3: Veritabanı ve Tabloları Kurun (SQL)
