@@ -98,5 +98,5 @@ Tarayıcınızı açın ve http://localhost:3000 adresine gidin. Industrial IT S
 
 ### 1. Projeyi Klonlayın
 ```bash
-git clone [https://github.com/SENIN_KULLANICI_ADIN/industrial-it-service-desk.git](https://github.com/SENIN_KULLANICI_ADIN/industrial-it-service-desk.git)
+git clone [https://github.com/Aisohfurkan/industrial-it-service-desk.git](https://github.com/Aisohfurkan/industrial-it-service-desk.git)
 cd industrial-it-service-desk
